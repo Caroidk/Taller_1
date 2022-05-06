@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"taller_1","l":"AppXiaomiau"},{"p":"taller_1","l":"Cliente"},{"p":"taller_1","l":"ListaClientes"},{"p":"taller_1","l":"ListaProductos"},{"p":"taller_1","l":"ListaVentas"},{"p":"taller_1","l":"Producto"},{"p":"taller_1","l":"Venta"}];updateSearchResults();
